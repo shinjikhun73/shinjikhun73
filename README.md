@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGR6cjE2bzN6dnJmYzk3NWVmM3J6cGRmMWk5dGp5M3p1cnVtcWJ2NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Wwn5NKv4At2CIc8XQa/giphy.gif"/>    
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Jiii!" alt="Typing SVG" /></a>
@@ -7,7 +7,6 @@
 
 <div align="center">
     <a href="https://t.me/SMKM47"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-</div>
 </div>
 
 # Hi, I'm Sokhunmony 👋
